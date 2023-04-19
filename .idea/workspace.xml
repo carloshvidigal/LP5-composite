@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b57de9-9464-480d-8459-5aac0ef9a1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/message1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/message2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composite/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/composite/CardTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8b57de9-9464-480d-8459-5aac0ef9a1be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
